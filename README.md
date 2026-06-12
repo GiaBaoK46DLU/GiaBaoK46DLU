@@ -12,7 +12,7 @@
 
 I am a final-year **Software Engineering student at Da Lat University** with a strong interest in **Full-stack Web Development**, **AI-powered applications**, and **real-world software solutions**.
 
-- 🎓 GPA: **3.51/4.0**
+- 🎓 GPA: **3.58/4.0**
 - 💻 Interested in **Front-end, Full-stack Development, AI Integration, and Computer Vision**
 - 🚀 Currently looking for internship opportunities to improve my technical skills and contribute to real-world projects
 
